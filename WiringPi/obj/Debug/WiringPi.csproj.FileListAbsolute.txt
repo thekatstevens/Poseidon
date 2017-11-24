@@ -1,0 +1,5 @@
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\WiringPi\bin\Debug\WiringPi.dll
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\WiringPi\bin\Debug\WiringPi.pdb
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.csprojResolveAssemblyReference.cache
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.dll
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.pdb

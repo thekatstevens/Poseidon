@@ -1,0 +1,14 @@
+S:\Projects\Poseidon\Atlantis\bin\Debug\Atlantis.exe.config
+S:\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.exe
+S:\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.pdb
+\\edit-fs\data$\Projects\Poseidon\Atlantis\bin\Debug\Atlantis.exe.config
+\\edit-fs\data$\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.exe
+\\edit-fs\data$\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.pdb
+D:\Poseidon\Atlantis\obj\Debug\Poseidon.csprojResolveAssemblyReference.cache
+D:\Poseidon\Atlantis\bin\Debug\Poseidon.exe.config
+D:\Poseidon\Atlantis\bin\Debug\Poseidon.exe
+D:\Poseidon\Atlantis\bin\Debug\Poseidon.pdb
+D:\Poseidon\Atlantis\bin\Debug\Newtonsoft.Json.dll
+D:\Poseidon\Atlantis\bin\Debug\Newtonsoft.Json.xml
+D:\Poseidon\Atlantis\obj\Debug\Poseidon.exe
+D:\Poseidon\Atlantis\obj\Debug\Poseidon.pdb

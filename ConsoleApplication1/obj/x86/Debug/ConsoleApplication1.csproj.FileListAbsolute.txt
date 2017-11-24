@@ -1,0 +1,14 @@
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\bin\Debug\SPITest.exe
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\bin\Debug\SPITest.pdb
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\bin\Debug\WiringPi.dll
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\bin\Debug\WiringPi.pdb
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\SPITest.exe
+C:\Users\andrew.ED-IT\Desktop\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\SPITest.pdb
+D:\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\SPITest.exe
+D:\WiringPi.Net-master\ConsoleApplication1\bin\Debug\SPITest.exe
+D:\WiringPi.Net-master\ConsoleApplication1\bin\Debug\SPITest.pdb
+D:\WiringPi.Net-master\ConsoleApplication1\bin\Debug\WiringPi.dll
+D:\WiringPi.Net-master\ConsoleApplication1\bin\Debug\WiringPi.pdb
+D:\WiringPi.Net-master\ConsoleApplication1\obj\x86\Debug\SPITest.pdb

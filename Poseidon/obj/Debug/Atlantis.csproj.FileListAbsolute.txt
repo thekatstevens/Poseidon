@@ -1,0 +1,14 @@
+D:\WiringPi.Net-master\Atlantis\bin\Debug\Atlantis.exe.config
+D:\WiringPi.Net-master\Atlantis\bin\Debug\Atlantis.exe
+D:\WiringPi.Net-master\Atlantis\bin\Debug\Atlantis.pdb
+D:\WiringPi.Net-master\Atlantis\bin\Debug\WiringPi.dll
+D:\WiringPi.Net-master\Atlantis\bin\Debug\WiringPi.pdb
+D:\WiringPi.Net-master\Atlantis\obj\Debug\Atlantis.csprojResolveAssemblyReference.cache
+D:\WiringPi.Net-master\Atlantis\obj\Debug\Atlantis.exe
+D:\WiringPi.Net-master\Atlantis\obj\Debug\Atlantis.pdb
+S:\Projects\Poseidon\Atlantis\bin\Debug\Atlantis.exe.config
+S:\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.exe
+S:\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.pdb
+S:\Projects\Poseidon\Atlantis\obj\Debug\Atlantis.csprojResolveAssemblyReference.cache
+S:\Projects\Poseidon\Atlantis\bin\Debug\Atlantis.exe
+S:\Projects\Poseidon\Atlantis\bin\Debug\Atlantis.pdb
